@@ -1,0 +1,12 @@
+# Python bytecode and cache
+__pycache__/
+*.pyc
+
+# Jupyter Notebook temporary files
+.ipynb_checkpoints/
+
+# Data cache file from yfinance debugging
+yfinance.cache
+
+# macOS specific files
+.DS_Store
